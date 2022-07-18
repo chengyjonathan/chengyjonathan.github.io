@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+I got a PhD in English, focusing on Machine Learning and British books in the 1800s.
 
-Maybe say a some things about yourself.
+Spent some time using computers to highlight historical trends about fictional people.
 
-Or maybe what you plan to blog about.
+After that, I worked at Apple, working on recommendation systems.
+
+Soon, I'll be working at Riot Games.
+
+But, in the back of my mind, I think about how Data Science/ML could affect the humanities (and the university).
